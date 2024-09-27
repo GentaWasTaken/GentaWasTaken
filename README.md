@@ -12,7 +12,7 @@ Chat with us on Discord!
     <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 	<a href="#">
-    <img src="svg/dev/languages/cpp.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="#">
     <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
