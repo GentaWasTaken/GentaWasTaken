@@ -1,7 +1,8 @@
+<img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h3>Hi 👋, I'm Genta </h3>
 
- <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
- <h3>Hi 👋, I'm Genta </h3>
 ## 💬 Chat with us on Discord:
+
 <a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
  <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
 </a> 
