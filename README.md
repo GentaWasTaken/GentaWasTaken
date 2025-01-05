@@ -1,32 +1,14 @@
 
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
  <h3>Hi 👋, I'm Genta </h3>
-Chat with us on Discord!
-
-[![Discord](https://img.shields.io/discord/870604052281573406)](https://discord.gg/JTM9b6XR3A)
+## 💬 Chat with us on Discord:
+<a href="https://discord.gg/JTM9b6XR3A" style="margin: 10px;">
+ <img src="https://discord.com/api/guilds/870604052281573406/widget.png?style=banner4" alt="Discord Banner" />
+</a> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🥇 Technical Skills:
-<div>
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-	<a href="#">
-    <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
-  </div>
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,flutter,dart,python,javascript,typescript,lua,nodejs,py,react,laravel)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Statistics  
